@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
 
   s.dependency "React-Core"
 
-  s.dependency 'GoogleMLKit/FaceDetection', '2.2.0'
+  s.dependency 'GoogleMLKit/FaceDetection', '3.2.0'
 end
